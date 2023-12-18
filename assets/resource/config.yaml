@@ -1,0 +1,27 @@
+# 网站/卡片的标题，默认为One Navigation
+title: One Navigation
+# 页脚
+footer: Copyright © 2023 One Navigation
+# Copyright © 2023 XXXXX
+
+# 卡片图片
+image:
+  type: local
+# 类型 local / network
+# image:
+#   type: network
+#   text: https://...
+#
+# image:
+#   type: local
+#
+# 使用local请替换 resource/card.png
+
+# 导航地址
+links:
+  - name: Github
+    link: https://github.com/CCZU-OSSA/OneNavigation
+# links:
+#   - name: 名称
+#     type: FILL #TODO
+#     link: https://...
